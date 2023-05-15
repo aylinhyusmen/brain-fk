@@ -37,7 +37,7 @@ fontLoader.load(
 
         // Text
         const textGeometry = new TextGeometry(
-            'certified \n brainfuck \n developer',
+            'brainfuck \n developer',
             {
                 font: font,
                 size: 0.5,
